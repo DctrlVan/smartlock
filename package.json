@@ -1,0 +1,23 @@
+{
+  "name": "smartlock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "onoff": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DecentralVan/smartlock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DecentralVan/smartlock/issues"
+  },
+  "homepage": "https://github.com/DecentralVan/smartlock#readme"
+}
